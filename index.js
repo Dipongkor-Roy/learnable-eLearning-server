@@ -11,7 +11,9 @@ app.get('/',(req,res)=>{
 app.get('/courses',(req,res)=>{
     res.send(courses);
 })
-app.get()
+app.get('/courses/:id',(req,res)=>{
+    const id=req.params.id
+})
 app.listen(port,()=>{
     console.log(`Running on , ${port}`)
 })
