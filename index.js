@@ -12,10 +12,10 @@ app.get('/courses',(req,res)=>{
     res.send(courses);
 })
 app.get('/courses/:id',(req,res)=>{
-    const id=req.params.id;
+    const id=parseInt(req.params.id); //to convert string to int
     const course=courses.find(cour=>cour.id===id);
     res.send(course);
 })
 app.listen(port,()=>{
-    console.log(`Running on , ${port}`)
+    console.log(`Running on ,${port}`)
 })
