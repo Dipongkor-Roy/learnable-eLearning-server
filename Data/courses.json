@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "title":"Docker Mastery",
+        "img":"https://miro.medium.com/v2/resize:fit:720/format:webp/0*tn-WMY-zDAQX8x0t.png",
+        "desc":"Learn to containerize applications using Docker. Understand Docker's core concepts, create and manage containers, orchestrate with Docker Compose, and explore advanced networking and security techniques.",
+        "ratings":"4.8/5",
+        "price":"$49.99"
+    },
+    {
+        "id":2,
+        "title":"ReactJS Fundamentals",
+        "img":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*C4yGTDSLSz86TCakrza2HQ.jpeg",
+        "desc":"Dive into ReactJS, a popular JavaScript library for building interactive user interfaces. Learn about components, state, props, JSX, and how to create dynamic web applications.",
+        "ratings":"4.7/5",
+        "price":"$29.99"
+    },
+    {
+        "id":3,
+        "title":"AWS Essentials",
+        "img":"https://pluralsight.imgix.net/course-images/aws-foundations-getting-started-aws-cloud-essentials-v1.png",
+        "desc":"Explore the basics of Amazon Web Services (AWS). Learn about cloud computing, key AWS services, setting up virtual servers, storage solutions, and basic networking concepts on the AWS platform.",
+        "ratings":"4.6/5",
+        "price":"$59.99"
+    },
+    {
+        "id":4,
+        "title":"Git & GitHub Masterclass",
+        "img":"https://media.licdn.com/dms/image/C4D12AQEbIRsuJxns_w/article-cover_image-shrink_600_2000/0/1623474631325?e=2147483647&v=beta&t=AZ5726YC3LKa4D13IXBifrkTkP9fOp5LeNFdC2uU6xs",
+        "desc":"Master version control using Git and GitHub. Understand branching, merging, pull requests, and collaborative workflows. Learn how to work effectively in a team using Git.",
+        "ratings":"4.9/5",
+        "price":"$39.99"
+    },
+    {
+        "id":5,
+        "title":"JavaScript for Beginners",
+        "img":"https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/what-is-javascript-used-for.png",
+        "desc":" Start your journey into web development with JavaScript. Learn about variables, data types, functions, control structures, and DOM manipulation for creating interactive web ",
+        "ratings":"4.5/5",
+        "price":"$24.99"
+    },
+    {
+        "id":6,
+        "title":"UI/UX Design Principles",
+        "img":"https://img-c.udemycdn.com/course/750x422/4592070_03cd_4.jpg",
+        "desc":"Discover the fundamentals of user interface (UI) and user experience (UX) design. Learn about design principles, user research, wireframing, prototyping, and creating intuitive digital experiences.",
+        "ratings":"4.7/5",
+        "price":"$34.99"
+    }
+]
